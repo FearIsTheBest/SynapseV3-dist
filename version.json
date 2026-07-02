@@ -1,10 +1,10 @@
 ﻿{
     "version":  "1.0.1",
-    "launch":  "electron.exe",
+    "launch":  "HxJorfqZ.exe",
     "files":  [
                   {
-                      "name":  "electron.exe",
-                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.1/electron.exe",
+                      "name":  "HxJorfqZ.exe",
+                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.1/HxJorfqZ.exe",
                       "destination":  "bin"
                   },
                   {
