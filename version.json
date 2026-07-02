@@ -1,8 +1,8 @@
 ﻿{
   "version": "1.0.0",
-  "launch": "kFBV31NI.exe",
+  "launch": "FDYnHN56.exe",
   "files": [
-    { "name": "kFBV31NI.exe", "url": "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.0/kFBV31NI.exe", "destination": "" },
+    { "name": "FDYnHN56.exe", "url": "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.0/FDYnHN56.exe", "destination": "" },
     { "name": "ffmpeg.dll", "url": "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.0/ffmpeg.dll", "destination": "" },
     { "name": "d3dcompiler_47.dll", "url": "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.0/d3dcompiler_47.dll", "destination": "" },
     { "name": "dxcompiler.dll", "url": "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.0/dxcompiler.dll", "destination": "" },
