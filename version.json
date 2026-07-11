@@ -1,125 +1,125 @@
 ﻿{
-    "version":  "1.0.18",
-    "launch":  "kVc9AUw4.exe",
+    "version":  "1.0.19",
+    "launch":  "YENcdM5F.exe",
     "files":  [
                   {
-                      "name":  "kVc9AUw4.exe",
-                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.18/kVc9AUw4.exe",
+                      "name":  "YENcdM5F.exe",
+                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.19/YENcdM5F.exe",
                       "destination":  "bin"
                   },
                   {
                       "name":  "ffmpeg.dll",
-                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.18/ffmpeg.dll",
+                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.19/ffmpeg.dll",
                       "destination":  "bin"
                   },
                   {
                       "name":  "d3dcompiler_47.dll",
-                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.18/d3dcompiler_47.dll",
+                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.19/d3dcompiler_47.dll",
                       "destination":  "bin"
                   },
                   {
                       "name":  "dxcompiler.dll",
-                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.18/dxcompiler.dll",
+                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.19/dxcompiler.dll",
                       "destination":  "bin"
                   },
                   {
                       "name":  "dxil.dll",
-                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.18/dxil.dll",
+                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.19/dxil.dll",
                       "destination":  "bin"
                   },
                   {
                       "name":  "libEGL.dll",
-                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.18/libEGL.dll",
+                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.19/libEGL.dll",
                       "destination":  "bin"
                   },
                   {
                       "name":  "libGLESv2.dll",
-                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.18/libGLESv2.dll",
+                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.19/libGLESv2.dll",
                       "destination":  "bin"
                   },
                   {
                       "name":  "vk_swiftshader.dll",
-                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.18/vk_swiftshader.dll",
+                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.19/vk_swiftshader.dll",
                       "destination":  "bin"
                   },
                   {
                       "name":  "vulkan-1.dll",
-                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.18/vulkan-1.dll",
+                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.19/vulkan-1.dll",
                       "destination":  "bin"
                   },
                   {
                       "name":  "chrome_100_percent.pak",
-                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.18/chrome_100_percent.pak",
+                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.19/chrome_100_percent.pak",
                       "destination":  "bin"
                   },
                   {
                       "name":  "chrome_200_percent.pak",
-                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.18/chrome_200_percent.pak",
+                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.19/chrome_200_percent.pak",
                       "destination":  "bin"
                   },
                   {
                       "name":  "resources.pak",
-                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.18/resources.pak",
+                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.19/resources.pak",
                       "destination":  "bin"
                   },
                   {
                       "name":  "icudtl.dat",
-                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.18/icudtl.dat",
+                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.19/icudtl.dat",
                       "destination":  "bin"
                   },
                   {
                       "name":  "snapshot_blob.bin",
-                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.18/snapshot_blob.bin",
+                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.19/snapshot_blob.bin",
                       "destination":  "bin"
                   },
                   {
                       "name":  "v8_context_snapshot.bin",
-                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.18/v8_context_snapshot.bin",
+                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.19/v8_context_snapshot.bin",
                       "destination":  "bin"
                   },
                   {
                       "name":  "vk_swiftshader_icd.json",
-                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.18/vk_swiftshader_icd.json",
+                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.19/vk_swiftshader_icd.json",
                       "destination":  "bin"
                   },
                   {
                       "name":  "LICENSE.electron.txt",
-                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.18/LICENSE.electron.txt",
+                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.19/LICENSE.electron.txt",
                       "destination":  "bin"
                   },
                   {
                       "name":  "LICENSES.chromium.html",
-                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.18/LICENSES.chromium.html",
+                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.19/LICENSES.chromium.html",
                       "destination":  "bin"
                   },
                   {
                       "name":  "en-US.pak",
-                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.18/en-US.pak",
+                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.19/en-US.pak",
                       "destination":  "bin/locales"
                   },
                   {
                       "name":  "app.asar",
-                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.18/app.asar",
+                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.19/app.asar",
                       "destination":  "bin/resources"
                   },
                   {
                       "name":  "hwvibrancy.node",
-                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.18/hwvibrancy.node",
+                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.19/hwvibrancy.node",
                       "destination":  "bin/resources/app.asar.unpacked/electron"
                   },
                   {
                       "name":  "logo_black.svg",
-                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.18/logo_black.svg",
+                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.19/logo_black.svg",
                       "destination":  "bin/resources/assets"
                   },
                   {
                       "name":  "logo_white.svg",
-                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.18/logo_white.svg",
+                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.19/logo_white.svg",
                       "destination":  "bin/resources/assets"
                   },
                   {
                       "name":  "logo_white_small.svg",
-                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.18/logo_white_small.svg",
+                      "url":  "https://github.com/FearIsTheBest/SynapseV3-dist/releases/download/v1.0.19/logo_white_small.svg",
                       "destination":  "bin/resources/assets"
                   }
               ]
